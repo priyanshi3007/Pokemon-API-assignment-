@@ -1,0 +1,16 @@
+.pokemon-card {
+    transition: transform 0.3s;
+    cursor: pointer;
+  }
+  
+  .pokemon-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .pokemon-img {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    display: block;
+  }
+  
